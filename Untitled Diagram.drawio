@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T09:39:59.167Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="fdz-mD-BMY5q8ZK6DTOe" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T14:20:11.189Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="VXVx0C67-lpd_X3SR4gB" version="22.1.0" type="github">
   <diagram name="Page-1" id="PGcFTo27rOfpDX2Z9XVu">
     <mxGraphModel dx="1388" dy="1511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,10 +20,10 @@
           <mxGeometry x="310" y="-140" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="O2am2NvgsredMJi-C9vx-10" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.a1_instance;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-79" width="48" height="48" as="geometry" />
+          <mxGeometry x="41" y="-84" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O2am2NvgsredMJi-C9vx-11" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.a1_instance;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-79" width="40" height="40" as="geometry" />
+          <mxGeometry x="151" y="-84.5" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="O2am2NvgsredMJi-C9vx-12" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#ED7100;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.a1_instance;" parent="1" vertex="1">
           <mxGeometry x="320" y="-80" width="48" height="48" as="geometry" />
@@ -85,7 +85,7 @@
           <mxGeometry x="224" y="75" width="66" height="10" as="geometry" />
         </mxCell>
         <mxCell id="O2am2NvgsredMJi-C9vx-45" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Amazon EC2 Autoscaling&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="228" y="-60" width="82" height="20" as="geometry" />
+          <mxGeometry x="224" y="-84.5" width="82" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O2am2NvgsredMJi-C9vx-46" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;Amazon EC2 Instance&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="421" y="-22" width="66" height="10" as="geometry" />
